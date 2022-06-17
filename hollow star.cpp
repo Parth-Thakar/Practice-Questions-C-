@@ -1,10 +1,9 @@
 #include<stdio.h>
 int main()
 {
-  int n;
+  int n=7;
 
-  printf("Enter number of rows: ");
-  scanf("%d",&n);
+  
 
   for(int i=1; i<=n; i++)
   {
